@@ -1,0 +1,24 @@
+button.switchstatements {
+    background-color: lightcoral;
+}
+
+button.operators {
+    background-color: lightblue;
+}
+
+button.loops {
+    background-color: lightgreen;
+}
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+}
+
+p {
+    font-family: Lucida Sans;
+}
+
+body {
+    background-color: blanchedalmond;
+}
